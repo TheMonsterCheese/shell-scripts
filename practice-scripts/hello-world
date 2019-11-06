@@ -1,0 +1,8 @@
+#!/bin/bash
+target="world"
+# This is string interpolation:
+echo "hello, ${target}"
+echo "\${#} : ${#}" #this is the number of arguments
+echo "\${@} : ${@}"
+echo "\${1} : ${1}"
+

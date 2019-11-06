@@ -1,0 +1,7 @@
+#!/usr/bin/node
+
+let s = "Hello";
+let j = 1;
+
+console.log(s + j);
+
